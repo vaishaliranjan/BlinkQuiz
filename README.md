@@ -56,3 +56,7 @@ The Dashboard shows attempted Quiz
   - `Repeat Question [Number]`: To hear a specific Question.
   - `Repeat Current Question`: To repeat the current Question.
   - `submit quiz`: to submit the quiz.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to contact me at [vaishaliranjan2@gmail.com](mailto:vaishaliranjan2@gmail.com).
